@@ -1,19 +1,19 @@
 
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=jiyose12&show_icons=true&hide_border=true" alt="jiyose12's Github Stats">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyose12&hide=html" alt="jiyose12's Languages" />
 
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyose12&show_icons=true&hide_border=true" alt="jiyose12's Github Stats">
+
+</br>
 
 ### Jiyose12 💻
 <div align="left">
 <em><b><a href="https://www.linkedin.com/in/jose-raimundo-fernandes/">Fullstack Developer </a></br></b></em>Amante das tecnologias. Graduando em Sistemas para internet no IFPB e estagiando no Tribunal de Contas do Estado da Paraíba.
 </div>
 </br>
-  
-------------------
-
+</br>
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyose12&hide=html" alt="jiyose12's Languages" />
+ 
+</br>
 
 Algumas tecnologias com que trabalho:
 
@@ -36,6 +36,7 @@ Algumas tecnologias com que trabalho:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+------------------
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jose-raimundo-fernandes/"><img src="https://img.shields.io/badge/-JoseFernandes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-raimundo-fernandes/" alt="Linkedin"/></a>
