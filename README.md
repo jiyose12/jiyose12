@@ -1,17 +1,16 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyose12&show_icons=true&hide_border=true" alt="jiyose12's Github Stats">
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyose12&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="jiyose12's Github Stats">
 </br>
 
 ### Jiyose12 💻
 <div align="left">
-<em><b><a href="https://www.linkedin.com/in/jose-raimundo-fernandes/">Fullstack Developer </a></br></b></em>Amante das tecnologias. Graduando em Sistemas para internet no IFPB e estagiando no Tribunal de Contas do Estado da Paraíba.
+<em><b><a href="https://www.linkedin.com/in/jose-raimundo-fernandes/">Fullstack Developer </a></br></b></em>Amante das tecnologias. Graduando em Sistemas para internet no IFPB e Trabalhando como desenvolvedor na Controladoria Geral do Município de João Pessoa
 </div>
 </br>
 </br>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyose12&hide=html" alt="jiyose12's Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyose12&layout=compact&theme=radical&hide=html" alt="jiyose12's Languages" />
  
 </br>
 
