@@ -5,7 +5,7 @@
 
 ### Jiyose12 💻
 <div align="left">
-<em><b><a href="https://www.linkedin.com/in/jose-raimundo-fernandes/">Fullstack Developer </a></br></b></em>Amante das tecnologias. Graduando em Sistemas para internet no IFPB e Trabalhando como desenvolvedor na Controladoria Geral do Município de João Pessoa
+<em><b><a href="https://www.linkedin.com/in/jose-raimundo-fernandes/">Fullstack Developer </a></br></b></em>Amante das tecnologias. Graduando em Sistemas para internet no IFPB e Trabalhando como desenvolvedor na CI&T
 </div>
 </br>
 </br>
